@@ -76,6 +76,8 @@
                 to avoid setting the error status
 */
 
+/* JMS Just adding a comment to test GitHub Functionality */
+
 /* the minoperator option allows the use of the in operator by the macro language */
 options minoperator;
 options missing='';	
